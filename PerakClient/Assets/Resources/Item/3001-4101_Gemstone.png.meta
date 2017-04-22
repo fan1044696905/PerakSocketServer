@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: e76acbe33b687254fabe6b9170089c9f
+timeCreated: 1490791258
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_Gemstone_3001_\u5347\u661F\u77F3"
+    21300002: "Item_Gemstone_3002_\u5347\u661F\u4E39"
+    21300004: "Item_Gemstone_3003_\u8D85\u7EA7\u5347\u661F\u4E39"
+    21300006: "Item_Gemstone_3004_\u84DD\u5B9D\u77F3"
+    21300008: "Item_Gemstone_3005_\u7EA2\u5B9D\u77F3"
+    21300010: "Item_Gemstone_3101_\u4E00\u7EA7\u751F\u547D\u5B9D\u77F3"
+    21300012: "Item_Gemstone_3102_\u4E8C\u7EA7\u751F\u547D\u5B9D\u77F3"
+    21300014: "Item_Gemstone_3103_\u4E09\u7EA7\u751F\u547D\u5B9D\u77F3"
+    21300016: "Item_Gemstone_3104_\u56DB\u7EA7\u751F\u547D\u5B9D\u77F3"
+    21300018: "Item_Gemstone_3105_\u4E94\u7EA7\u751F\u547D\u5B9D\u77F3"
+    21300020: "Item_Gemstone_3106_\u516D\u7EA7\u751F\u547D\u5B9D\u77F3"
+    21300022: "Item_Gemstone_3201_\u4E00\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+    21300024: "Item_Gemstone_3202_\u4E8C\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+    21300026: "Item_Gemstone_3203_\u4E09\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+    21300028: "Item_Gemstone_3204_\u56DB\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+    21300030: "Item_Gemstone_3205_\u4E94\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+    21300032: "Item_Gemstone_3206_\u516D\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+    21300034: "Item_Gemstone_3301_\u4E00\u7EA7\u7269\u4F24\u5B9D\u77F3"
+    21300036: "Item_Gemstone_3302_\u4E8C\u7EA7\u7269\u4F24\u5B9D\u77F3"
+    21300038: "Item_Gemstone_3303_\u4E09\u7EA7\u7269\u4F24\u5B9D\u77F3"
+    21300040: "Item_Gemstone_3304_\u56DB\u7EA7\u7269\u4F24\u5B9D\u77F3"
+    21300042: "Item_Gemstone_3305_\u4E94\u7EA7\u7269\u4F24\u5B9D\u77F3"
+    21300044: "Item_Gemstone_3306_\u516D\u7EA7\u7269\u4F24\u5B9D\u77F3"
+    21300046: "Item_Gemstone_3401_\u4E00\u7EA7\u7269\u9632\u5B9D\u77F3"
+    21300048: "Item_Gemstone_3402_\u4E8C\u7EA7\u7269\u9632\u5B9D\u77F3"
+    21300050: "Item_Gemstone_3403_\u4E09\u7EA7\u7269\u9632\u5B9D\u77F3"
+    21300052: "Item_Gemstone_3404_\u56DB\u7EA7\u7269\u9632\u5B9D\u77F3"
+    21300054: "Item_Gemstone_3405_\u4E94\u7EA7\u7269\u9632\u5B9D\u77F3"
+    21300056: "Item_Gemstone_3406_\u516D\u7EA7\u7269\u9632\u5B9D\u77F3"
+    21300058: "Item_Gemstone_3501_\u4E00\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+    21300060: "Item_Gemstone_3502_\u4E8C\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+    21300062: "Item_Gemstone_3503_\u4E09\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+    21300064: "Item_Gemstone_3504_\u56DB\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+    21300066: "Item_Gemstone_3505_\u4E94\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+    21300068: "Item_Gemstone_3506_\u516D\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+    21300070: "Item_Gemstone_3601_\u4E00\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+    21300072: "Item_Gemstone_3602_\u4E8C\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+    21300074: "Item_Gemstone_3603_\u4E09\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+    21300076: "Item_Gemstone_3604_\u56DB\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+    21300078: "Item_Gemstone_3605_\u4E94\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+    21300080: "Item_Gemstone_3606_\u516D\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+    21300082: "Item_Gemstone_3701_\u4E00\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+    21300084: "Item_Gemstone_3702_\u4E8C\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+    21300086: "Item_Gemstone_3703_\u4E09\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+    21300088: "Item_Gemstone_3704_\u56DB\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+    21300090: "Item_Gemstone_3705_\u4E94\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+    21300092: "Item_Gemstone_3706_\u516D\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+    21300094: "Item_Gemstone_3801_\u4E00\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+    21300096: "Item_Gemstone_3802_\u4E8C\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+    21300098: "Item_Gemstone_3803_\u4E09\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+    21300100: "Item_Gemstone_3804_\u56DB\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+    21300102: "Item_Gemstone_3805_\u4E94\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+    21300104: "Item_Gemstone_3806_\u516D\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+    21300106: "Item_Gemstone_3901_\u4E00\u7EA7\u95EA\u907F\u5B9D\u77F3"
+    21300108: "Item_Gemstone_3902_\u4E8C\u7EA7\u95EA\u907F\u5B9D\u77F3"
+    21300110: "Item_Gemstone_3903_\u4E09\u7EA7\u95EA\u907F\u5B9D\u77F3"
+    21300112: "Item_Gemstone_3904_\u56DB\u7EA7\u95EA\u907F\u5B9D\u77F3"
+    21300114: "Item_Gemstone_3905_\u4E94\u7EA7\u95EA\u907F\u5B9D\u77F3"
+    21300116: "Item_Gemstone_3906_\u516D\u7EA7\u95EA\u907F\u5B9D\u77F3"
+    21300118: "Item_Gemstone_4001_\u4E00\u7EA7\u66B4\u51FB\u51CF\u514D"
+    21300120: "Item_Gemstone_4002_\u4E8C\u7EA7\u66B4\u51FB\u51CF\u514D"
+    21300122: "Item_Gemstone_4003_\u4E09\u7EA7\u66B4\u51FB\u51CF\u514D"
+    21300124: "Item_Gemstone_4004_\u56DB\u7EA7\u66B4\u51FB\u51CF\u514D"
+    21300126: "Item_Gemstone_4005_\u4E94\u7EA7\u66B4\u51FB\u51CF\u514D"
+    21300128: "Item_Gemstone_4006_\u516D\u7EA7\u66B4\u51FB\u51CF\u514D"
+    21300130: "Item_Gemstone_4101_\u4E00\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+    21300132: "Item_Gemstone_4102_\u4E8C\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+    21300134: "Item_Gemstone_4103_\u4E09\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+    21300136: "Item_Gemstone_4104_\u56DB\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+    21300138: "Item_Gemstone_4105_\u4E94\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+    21300140: "Item_Gemstone_4106_\u516D\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_Gemstone_3001_\u5347\u661F\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3002_\u5347\u661F\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3003_\u8D85\u7EA7\u5347\u661F\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3004_\u84DD\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3005_\u7EA2\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3101_\u4E00\u7EA7\u751F\u547D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3102_\u4E8C\u7EA7\u751F\u547D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3103_\u4E09\u7EA7\u751F\u547D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3104_\u56DB\u7EA7\u751F\u547D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3105_\u4E94\u7EA7\u751F\u547D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3106_\u516D\u7EA7\u751F\u547D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3201_\u4E00\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 371
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3202_\u4E8C\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3203_\u4E09\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3204_\u56DB\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3205_\u4E94\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3206_\u516D\u7EA7\u6CD5\u529B\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3301_\u4E00\u7EA7\u7269\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3302_\u4E8C\u7EA7\u7269\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3303_\u4E09\u7EA7\u7269\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3304_\u56DB\u7EA7\u7269\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3305_\u4E94\u7EA7\u7269\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3306_\u516D\u7EA7\u7269\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3401_\u4E00\u7EA7\u7269\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3402_\u4E8C\u7EA7\u7269\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3403_\u4E09\u7EA7\u7269\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3404_\u56DB\u7EA7\u7269\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3405_\u4E94\u7EA7\u7269\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3406_\u516D\u7EA7\u7269\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3501_\u4E00\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3502_\u4E8C\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3503_\u4E09\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3504_\u56DB\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3505_\u4E94\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3506_\u516D\u7EA7\u6CD5\u4F24\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3601_\u4E00\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3602_\u4E8C\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3603_\u4E09\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3604_\u56DB\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3605_\u4E94\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3606_\u516D\u7EA7\u6CD5\u9632\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3701_\u4E00\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3702_\u4E8C\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3703_\u4E09\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3704_\u56DB\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3705_\u4E94\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3706_\u516D\u7EA7\u547D\u4E2D\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3801_\u4E00\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3802_\u4E8C\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3803_\u4E09\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3804_\u56DB\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3805_\u4E94\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3806_\u516D\u7EA7\u66B4\u51FB\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3901_\u4E00\u7EA7\u95EA\u907F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3902_\u4E8C\u7EA7\u95EA\u907F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3903_\u4E09\u7EA7\u95EA\u907F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3904_\u56DB\u7EA7\u95EA\u907F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3905_\u4E94\u7EA7\u95EA\u907F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_3906_\u516D\u7EA7\u95EA\u907F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4001_\u4E00\u7EA7\u66B4\u51FB\u51CF\u514D"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4002_\u4E8C\u7EA7\u66B4\u51FB\u51CF\u514D"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4003_\u4E09\u7EA7\u66B4\u51FB\u51CF\u514D"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4004_\u56DB\u7EA7\u66B4\u51FB\u51CF\u514D"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4005_\u4E94\u7EA7\u66B4\u51FB\u51CF\u514D"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4006_\u516D\u7EA7\u66B4\u51FB\u51CF\u514D"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4101_\u4E00\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4102_\u4E8C\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4103_\u4E09\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4104_\u56DB\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4105_\u4E94\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Gemstone_4106_\u516D\u7EA7\u7A7F\u900F\u5B9D\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

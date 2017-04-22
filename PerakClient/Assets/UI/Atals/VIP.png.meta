@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: f167c7150d43ed24dafc867e6a35acd6
+timeCreated: 1490794681
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shouchong
+    21300002: Vip01
+    21300004: Vip02
+    21300006: Vip03
+    21300008: Vip04
+    21300010: Vip05
+    21300012: Vip06
+    21300014: Vip07
+    21300016: Vip08
+    21300018: Vip09
+    21300020: Vip10
+    21300022: Vip11
+    21300024: Vip12
+    21300026: Vip13
+    21300028: Vip14
+    21300030: Vip15
+    21300032: zhankai
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shouchong
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip01
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 129
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5350877, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip02
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 123
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip03
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 184
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.47413793, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip04
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 72
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5350877, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip05
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.48181817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip06
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 186
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48245615, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip07
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 54
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip08
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 58
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48181817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip09
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 109
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 180
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 44
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 174
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Vip15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: zhankai
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

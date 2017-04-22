@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 3a60577de915de34a919b77aee71a274
+timeCreated: 1490791714
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_Tools_500_\u7ED3\u5A5A\u793C\u670D"
+    21300002: "Item_Tools_5001_\u94DC\u5E01"
+    21300004: "Item_Tools_5002_100\u5143\u5B9D"
+    21300006: "Item_Tools_5002_\u5143\u5B9D"
+    21300008: "Item_Tools_5003_500\u5143\u5B9D"
+    21300010: "Item_Tools_5004_1000\u5143\u5B9D"
+    21300012: "Item_Tools_5005_3000\u5143\u5B9D"
+    21300014: "Item_Tools_5006_\u5341\u4E07\u94F6\u7968"
+    21300016: "Item_Tools_5007_\u793C\u5305"
+    21300018: "Item_Tools_5008_\u94DC\u7BB1\u5B50"
+    21300020: "Item_Tools_5009_\u94DC\u7BB1\u5B50"
+    21300022: "Item_Tools_5010_\u94F6\u7BB1\u5B50"
+    21300024: "Item_Tools_5011_\u94F6\u94A5\u5319"
+    21300026: "Item_Tools_5012_\u91D1\u7BB1\u5B50"
+    21300028: "Item_Tools_5013_\u91D1\u94A5\u5319"
+    21300030: "Item_Tools_5014_\u6210\u957F\u57FA\u91D1"
+    21300032: "Item_Tools_5015_\u7EA2\u73AB\u7470"
+    21300034: "Item_Tools_5016_\u4EBA\u7269\u7ECF\u9A8C"
+    21300036: "Item_Tools_5017_\u5DE7\u514B\u529B"
+    21300038: "Item_Tools_5018_\u53CC\u500D\u7ECF\u9A8C\u4E39"
+    21300040: "Item_Tools_5019_\u4EBA\u7269\u4F53\u529B\u4E39"
+    21300042: "Item_Tools_5020_\u4EBA\u7269\u58F0\u671B"
+    21300044: "Item_Tools_5021_\u4EBA\u7269\u91CD\u65B0\u5206\u914D"
+    21300046: "Item_Tools_5022_\u5BA0\u7269\u7ECF\u9A8C\u836F\u6C34"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_Tools_500_\u7ED3\u5A5A\u793C\u670D"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5001_\u94DC\u5E01"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5002_100\u5143\u5B9D"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5002_\u5143\u5B9D"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5003_500\u5143\u5B9D"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5004_1000\u5143\u5B9D"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5005_3000\u5143\u5B9D"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5006_\u5341\u4E07\u94F6\u7968"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5007_\u793C\u5305"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5008_\u94DC\u7BB1\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5009_\u94DC\u7BB1\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5010_\u94F6\u7BB1\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5011_\u94F6\u94A5\u5319"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5012_\u91D1\u7BB1\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5013_\u91D1\u94A5\u5319"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5014_\u6210\u957F\u57FA\u91D1"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5015_\u7EA2\u73AB\u7470"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5016_\u4EBA\u7269\u7ECF\u9A8C"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5017_\u5DE7\u514B\u529B"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5018_\u53CC\u500D\u7ECF\u9A8C\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5019_\u4EBA\u7269\u4F53\u529B\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5020_\u4EBA\u7269\u58F0\u671B"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5021_\u4EBA\u7269\u91CD\u65B0\u5206\u914D"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Tools_5022_\u5BA0\u7269\u7ECF\u9A8C\u836F\u6C34"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

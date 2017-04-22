@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: dbcf16e7bc5cd0b408f567887ee8e99d
+timeCreated: 1491162346
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Common_Button_Yello
+    21300002: "Common_Button_\u4E0A\u4E00\u9875\u53CD\u9988"
+    21300004: "Common_Button_\u4E0A\u4E00\u9875\u6B63\u5E38"
+    21300006: "Common_Button_\u5173\u95ED\u53CD\u9988"
+    21300008: "Common_Button_\u5173\u95ED\u6B63\u5E38"
+    21300010: "Common_Button_\u51CF\u53F7\u53CD\u9988"
+    21300012: "Common_Button_\u51CF\u53F7\u6B63\u5E38"
+    21300014: "Common_Button_\u51CF\u53F7\u7F6E\u7070"
+    21300016: "Common_Button_\u52A0\u53F7\u53CD\u9988"
+    21300018: "Common_Button_\u52A0\u53F7\u6B63\u5E38"
+    21300020: "Common_Button_\u52A0\u53F7\u7F6E\u7070"
+    21300022: "Common_Button_\u53D1\u5149\u6309\u94AE\u53CD\u9988"
+    21300024: "Common_Button_\u53D1\u5149\u6309\u94AE\u6B63\u5E38"
+    21300026: "Common_Button_\u53D1\u5149\u6309\u94AE\u7F6E\u7070"
+    21300028: "Common_Button_\u666E\u901A\u6309\u94AE\u53CD\u9988"
+    21300030: "Common_Button_\u666E\u901A\u6309\u94AE\u6B63\u5E38"
+    21300032: "Common_Button_\u666E\u901A\u6309\u94AE\u7F6E\u7070"
+    21300034: "Common_Button_\u7FFB\u9875\u53CD\u9988"
+    21300036: "Common_Button_\u7FFB\u9875\u6B63\u5E38"
+    21300038: "Common_Button_\u8FD4\u56DE1\u53CD\u9988"
+    21300040: "Common_Button_\u8FD4\u56DE1\u6B63\u5E38"
+    21300042: "Common_Button_\u8FD4\u56DE2\u53CD\u9988"
+    21300044: "Common_Button_\u8FD4\u56DE2\u6B63\u5E38"
+    21300046: "Common_Button_\u8FD4\u56DE3"
+    21300048: "Common_Drag_\u6ED1\u52A8\u73E0"
+    21300050: "Common_Money_\u91D1\u5143\u5B9D"
+    21300052: "Common_Money_\u91D1\u5E01"
+    21300054: "Common_Refresh_\u53CD\u9988"
+    21300056: "Common_Refresh_\u6B63\u5E38"
+    21300058: "Common_Toggle_\u5206\u680F\u53CD\u9988"
+    21300060: "Common_Toggle_\u5206\u680F\u6B63\u5E38"
+    21300062: "Common_Toggle_\u672A\u9009\u62E9"
+    21300064: "Common_Toggle_\u9009\u62E9"
+    21300066: "Common_\u5BF9\u8BDD\u6846"
+    21300068: "Common_\u611F\u53F9\u53F7"
+    21300070: "Common_\u6218\u529B_Bg"
+    21300072: "Common_\u9501_\u4E0D\u53EF\u5F00\u542F"
+    21300074: "Common_\u9501_\u53EF\u5F00\u542F"
+    21300076: "Common_\u9524\u5B50"
+    21300078: "Common_\u95EE\u53F7"
+    21300080: "Register_\u672A\u9009\u4E2D"
+    21300082: "Register_\u9009\u4E2D"
+    21300084: weihuode
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Common_Button_Yello
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 363
+        width: 162
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u4E0A\u4E00\u9875\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 64
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u4E0A\u4E00\u9875\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 57
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u5173\u95ED\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u5173\u95ED\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u51CF\u53F7\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 170
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u51CF\u53F7\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 170
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u51CF\u53F7\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 113
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u52A0\u53F7\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 113
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u52A0\u53F7\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 182
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u52A0\u53F7\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 9
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u53D1\u5149\u6309\u94AE\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 429
+        width: 219
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u53D1\u5149\u6309\u94AE\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 209
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u53D1\u5149\u6309\u94AE\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 209
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u666E\u901A\u6309\u94AE\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 162
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u666E\u901A\u6309\u94AE\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 162
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u666E\u901A\u6309\u94AE\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 301
+        width: 162
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u7FFB\u9875\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 99
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u7FFB\u9875\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 291
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u8FD4\u56DE1\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 272
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u8FD4\u56DE1\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 346
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u8FD4\u56DE2\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 227
+        width: 59
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u8FD4\u56DE2\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 66
+        width: 59
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Button_\u8FD4\u56DE3"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 347
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Drag_\u6ED1\u52A8\u73E0"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 243
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Money_\u91D1\u5143\u5B9D"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 429
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Money_\u91D1\u5E01"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 15
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Refresh_\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 153
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Refresh_\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Toggle_\u5206\u680F\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 141
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Toggle_\u5206\u680F\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Toggle_\u672A\u9009\u62E9"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_Toggle_\u9009\u62E9"
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 239
+        width: 62
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5080645, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u5BF9\u8BDD\u6846"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 207
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u611F\u53F9\u53F7"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 9
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u6218\u529B_Bg"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 393
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u9501_\u4E0D\u53EF\u5F00\u542F"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 100
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u9501_\u53EF\u5F00\u542F"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 60
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u9524\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 274
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Common_\u95EE\u53F7"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u672A\u9009\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 98
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u9009\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 465
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weihuode
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 351
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

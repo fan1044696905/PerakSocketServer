@@ -1,0 +1,6 @@
+H:\Git\PerakSocketServer\PerakSocketServer\bin\Debug\PerakSocketServer.exe.config
+H:\Git\PerakSocketServer\PerakSocketServer\bin\Debug\PerakSocketServer.exe
+H:\Git\PerakSocketServer\PerakSocketServer\bin\Debug\PerakSocketServer.pdb
+H:\Git\PerakSocketServer\PerakSocketServer\obj\Debug\PerakSocketServer.csprojResolveAssemblyReference.cache
+H:\Git\PerakSocketServer\PerakSocketServer\obj\Debug\PerakSocketServer.exe
+H:\Git\PerakSocketServer\PerakSocketServer\obj\Debug\PerakSocketServer.pdb

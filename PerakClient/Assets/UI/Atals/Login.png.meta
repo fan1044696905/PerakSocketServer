@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 2626db432699eb64fab825872d22b551
+timeCreated: 1489229275
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Login_\u5FD8\u8BB0\u5BC6\u7801"
+    21300002: "Login_\u5FEB\u901F\u767B\u5F55"
+    21300004: "Login_\u5FEB\u901F\u767B\u5F55_\u53CD\u9988"
+    21300006: "Login_\u6CE8\u518C"
+    21300008: "Login_\u6CE8\u518C_\u53CD\u9988"
+    21300010: "Login_\u767B\u5F55"
+    21300012: "Login_\u767B\u5F55_\u53CD\u9988"
+    21300014: "Login_\u767B\u5F55\u6846"
+    21300016: "Login_\u8BB0\u4F4F\u5BC6\u7801\u5426"
+    21300018: "Login_\u8BB0\u4F4F\u5BC6\u7801\u662F"
+    21300020: "Login_\u8D26\u53F7\u4E0B\u62C9\u6309\u94AE"
+    21300022: "Login_\u8D26\u53F7\u4E0B\u62C9\u6309\u94AE_\u53CD\u9988"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Login_\u5FD8\u8BB0\u5BC6\u7801"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 17
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u5FEB\u901F\u767B\u5F55"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 85
+        width: 146
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u5FEB\u901F\u767B\u5F55_\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 13
+        width: 146
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u6CE8\u518C"
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 97
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u6CE8\u518C_\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 37
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u767B\u5F55"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 97
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u767B\u5F55_\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 37
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u767B\u5F55\u6846"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 534
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u8BB0\u4F4F\u5BC6\u7801\u5426"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 8
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u8BB0\u4F4F\u5BC6\u7801\u662F"
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 5
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u8D26\u53F7\u4E0B\u62C9\u6309\u94AE"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 13
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: "Login_\u8D26\u53F7\u4E0B\u62C9\u6309\u94AE_\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 12
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

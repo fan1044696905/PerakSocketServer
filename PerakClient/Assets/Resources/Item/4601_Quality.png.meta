@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 0989d8150757f56459c5f640a73feab8
+timeCreated: 1490791625
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_Quality_4601_\u767D\u8272\u88C5\u5907"
+    21300002: "Item_Quality_4602_\u7EFF\u8272\u88C5\u5907"
+    21300004: "Item_Quality_4603_\u84DD\u8272\u88C5\u5907"
+    21300006: "Item_Quality_4604_\u7D2B\u8272\u88C5\u5907"
+    21300008: "Item_Quality_4605_\u6A59\u8272\u88C5\u5907"
+    21300010: "Item_Quality_4606_\u767D\u8272\u5E73\u6C11"
+    21300012: "Item_Quality_4607_\u7EFF\u8272\u4FA0\u5BA2"
+    21300014: "Item_Quality_4608_\u84DD\u8272\u82F1\u96C4"
+    21300016: "Item_Quality_4609_\u7D2B\u8272\u9738\u4E3B"
+    21300018: "Item_Quality_4610_\u6A59\u8272\u5B97\u5E08"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_Quality_4601_\u767D\u8272\u88C5\u5907"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4602_\u7EFF\u8272\u88C5\u5907"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 63
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4603_\u84DD\u8272\u88C5\u5907"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4604_\u7D2B\u8272\u88C5\u5907"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4605_\u6A59\u8272\u88C5\u5907"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 63
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4606_\u767D\u8272\u5E73\u6C11"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 72
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4607_\u7EFF\u8272\u4FA0\u5BA2"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4608_\u84DD\u8272\u82F1\u96C4"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4609_\u7D2B\u8272\u9738\u4E3B"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Quality_4610_\u6A59\u8272\u5B97\u5E08"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

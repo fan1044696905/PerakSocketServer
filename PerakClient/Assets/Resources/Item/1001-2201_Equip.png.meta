@@ -1,0 +1,1902 @@
+fileFormatVersion: 2
+guid: bc024f7b0e0870e4699a1ec918112630
+timeCreated: 1490791008
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_Equip_1001_\u5341\u65B9\u7075\u52A8"
+    21300002: "Item_Equip_1002_\u767E\u4EE3\u6606\u543E"
+    21300004: "Item_Equip_1003_\u56DB\u6CD5\u9752\u4E91"
+    21300006: "Item_Equip_1004_\u5929\u9798\u6668\u66E6"
+    21300008: "Item_Equip_1005_\u4E09\u6052\u66CC\u4E16"
+    21300010: "Item_Equip_1006_\u6781\u5149\u5C01\u795E"
+    21300012: "Item_Equip_1007_\u971C\u51B7\u4E5D\u5DDE"
+    21300014: "Item_Equip_1008_\u7D2B\u7535\u9752\u971C"
+    21300016: "Item_Equip_1009_\u864E\u5C3E\u6625\u51B0"
+    21300018: "Item_Equip_1010_\u5982\u662F\u6211\u65A9"
+    21300020: "Item_Equip_1011_\u83E9\u63D0\u957F\u51E0"
+    21300022: "Item_Equip_1101_\u67F3\u53F6\u5F2F\u5200"
+    21300024: "Item_Equip_1102_\u591C\u9B54\u5F2F\u5200"
+    21300026: "Item_Equip_1103_\u9F99\u9CDE\u5B9D\u5200"
+    21300028: "Item_Equip_1104_\u65A9\u5996\u6CE3\u8840"
+    21300030: "Item_Equip_1105_\u9B3C\u9633\u516D\u65A9"
+    21300032: "Item_Equip_1106_\u767E\u9B3C\u64D2\u9B42"
+    21300034: "Item_Equip_1107_\u9F99\u9AA8\u5723\u5203"
+    21300036: "Item_Equip_1108_\u72EE\u5934\u5B9D\u5200"
+    21300038: "Item_Equip_1109_\u5B64\u5200\u795E\u5F71"
+    21300040: "Item_Equip_1110_\u4E1A\u706B\u4E09\u707E"
+    21300042: "Item_Equip_1111_\u672B\u65E5\u795E\u8BDD"
+    21300044: "Item_Equip_1201_\u66F2\u67F3\u6743\u6756"
+    21300046: "Item_Equip_1202_\u7384\u94C1\u6743\u6756"
+    21300048: "Item_Equip_1203_\u5F15\u9B42\u6CD5\u6756"
+    21300050: "Item_Equip_1204_\u5E84\u5468\u68A6\u8776"
+    21300052: "Item_Equip_1205_\u51E4\u7FFC\u6D41\u73E0"
+    21300054: "Item_Equip_1206_\u78A7\u6D77\u6F6E\u751F"
+    21300056: "Item_Equip_1207_\u6781\u9B54\u6CD5\u6756"
+    21300058: "Item_Equip_1208_\u9057\u5FD8\u4E4B\u7231"
+    21300060: "Item_Equip_1209_\u5929\u7167\u6CD5\u6756"
+    21300062: "Item_Equip_1210_\u7075\u9B42\u6536\u5272"
+    21300064: "Item_Equip_1211_\u5723\u5149\u5C06\u7184"
+    21300066: "Item_Equip_1301_\u5730\u5578\u7075\u7B26"
+    21300068: "Item_Equip_1302_\u5929\u54ED\u7075\u7B26"
+    21300070: "Item_Equip_1303_\u5FC3\u7A8D\u7075\u7B26"
+    21300072: "Item_Equip_1304_\u4E09\u805A\u7075\u7B26"
+    21300074: "Item_Equip_1305_\u6708\u534E\u51C0\u4E16"
+    21300076: "Item_Equip_1306_\u534A\u6728\u53E4\u7B26"
+    21300078: "Item_Equip_1307_\u5973\u5A32\u7075\u7B26"
+    21300080: "Item_Equip_1308_\u9A71\u90AA\u5316\u715E"
+    21300082: "Item_Equip_1309_\u4E0A\u53E4\u7075\u7B26"
+    21300084: "Item_Equip_1310_\u4E0A\u6E05\u7075\u7B26"
+    21300086: "Item_Equip_1311_\u9E3F\u8499\u7B26\u706F"
+    21300088: "Item_Equip_1312_\u6CE5\u7281\u5E03\u7252"
+    21300090: "Item_Equip_1401_\u9576\u82B1\u7FE0\u88D9"
+    21300092: "Item_Equip_1402_\u9ED1\u971E\u5F69\u4E91"
+    21300094: "Item_Equip_1403_\u7D2B\u9999\u91D1\u4E4C"
+    21300096: "Item_Equip_1404_\u4E03\u5B9D\u5929\u8863"
+    21300098: "Item_Equip_1405_\u6D41\u4E91\u7D20\u88D9"
+    21300100: "Item_Equip_1406_\u9713\u88F3\u7FBD\u8863"
+    21300102: "Item_Equip_1407_\u5929\u9999\u62AB\u80A9"
+    21300104: "Item_Equip_1408_\u9F99\u9CDE\u7FBD\u8863"
+    21300106: "Item_Equip_1409_\u9ED1\u4E1D\u8749\u7FFC"
+    21300108: "Item_Equip_1410_\u4E94\u5F69\u51E4\u7FC5"
+    21300110: "Item_Equip_1411_\u7D2B\u51E4\u8F7B\u88D8"
+    21300112: "Item_Equip_1412_\u73CA\u745A\u7389\u8863"
+    21300114: "Item_Equip_1413_\u795E\u903E\u5B9D\u7532"
+    21300116: "Item_Equip_1414_\u9F99\u9AA8\u5B9D\u7532"
+    21300118: "Item_Equip_1415_\u8749\u7FFC\u91D1\u4E1D"
+    21300120: "Item_Equip_1416_\u7D2B\u91D1\u78D0\u9F99"
+    21300122: "Item_Equip_1417_\u8BF8\u5929\u6CD5\u888D"
+    21300124: "Item_Equip_1418_\u91D1\u4E1D\u9C7C\u9CDE"
+    21300126: "Item_Equip_1419_\u701A\u5B87\u6CD5\u888D"
+    21300128: "Item_Equip_1420_\u6DF7\u5143\u4E00\u6C14"
+    21300130: "Item_Equip_1421_\u5200\u9F99\u6218\u888D"
+    21300132: "Item_Equip_1422_\u7A46\u5929\u4E03\u62A4"
+    21300134: "Item_Equip_1501_\u7D2B\u7EE1\u70DF\u7F57"
+    21300136: "Item_Equip_1502_\u7EFF\u96C1\u9526\u8863"
+    21300138: "Item_Equip_1503_\u5BF9\u895F\u7FBD\u7EB1"
+    21300140: "Item_Equip_1504_\u767E\u8776\u5EA6\u82B1"
+    21300142: "Item_Equip_1505_\u5982\u610F\u4E91\u7EB9"
+    21300144: "Item_Equip_1506_\u76D8\u91D1\u5F69\u7EE3"
+    21300146: "Item_Equip_1507_\u7EA2\u7FBD\u7EB1\u8863"
+    21300148: "Item_Equip_1508_\u4E4C\u91D1\u4E91\u7EE3"
+    21300150: "Item_Equip_1601_\u666E\u901A\u5934\u51A0"
+    21300152: "Item_Equip_1602_\u51CC\u6CE2\u971E\u51A0"
+    21300154: "Item_Equip_1603_\u5929\u7075\u5B9D\u51A0"
+    21300156: "Item_Equip_1604_\u4E5D\u9704\u70C8\u7130"
+    21300158: "Item_Equip_1605_\u666E\u901A\u5934\u5DFE"
+    21300160: "Item_Equip_1606_\u9752\u7389\u661F\u51A0"
+    21300162: "Item_Equip_1607_\u53CC\u7FFC\u51CC\u9704"
+    21300164: "Item_Equip_1608_\u91D1\u7FFC\u9F99\u51A0"
+    21300166: "Item_Equip_1701_\u666E\u901A\u9879\u94FE"
+    21300168: "Item_Equip_1702_\u4ED3\u6728\u9879\u94FE"
+    21300170: "Item_Equip_1703_\u82CD\u9B42\u540A\u5760"
+    21300172: "Item_Equip_1704_\u8367\u5149\u5760\u5B50"
+    21300174: "Item_Equip_1705_\u78A7\u6C34\u9752\u9F99"
+    21300176: "Item_Equip_1706_\u4E03\u5F69\u73B2\u73D1"
+    21300178: "Item_Equip_1707_\u843D\u971E\u9668\u661F"
+    21300180: "Item_Equip_1708_\u938F\u91D1\u70B9\u7FE0"
+    21300182: "Item_Equip_1801_\u9EC4\u94DC\u62A4\u8155"
+    21300184: "Item_Equip_1802_\u5BC6\u94F6\u62A4\u8155"
+    21300186: "Item_Equip_1803_\u9ED1\u91D1\u62A4\u8155"
+    21300188: "Item_Equip_1804_\u7CBE\u94A2\u62A4\u8155"
+    21300190: "Item_Equip_1805_\u7384\u94C1\u62A4\u8155"
+    21300192: "Item_Equip_1806_\u9ED1\u9F99\u62A4\u8155"
+    21300194: "Item_Equip_1807_\u964D\u9F99\u62A4\u8155"
+    21300196: "Item_Equip_1808_\u91D1\u9CDE\u62A4\u8155"
+    21300198: "Item_Equip_1901_\u8349\u6728\u6212\u6307"
+    21300200: "Item_Equip_1902_\u7FE1\u7FE0\u6212\u6307"
+    21300202: "Item_Equip_1903_\u78D0\u9F99\u6212\u6307"
+    21300204: "Item_Equip_1904_\u9EC4\u91D1\u6212\u6307"
+    21300206: "Item_Equip_1905_\u987B\u5F25\u6212\u6307"
+    21300208: "Item_Equip_1906_\u5929\u4F7F\u4E4B\u6212"
+    21300210: "Item_Equip_1907_\u81F3\u5C0A\u9B54\u6212"
+    21300212: "Item_Equip_1908_\u4E7E\u5764\u6212\u6307"
+    21300214: "Item_Equip_2001_\u666E\u901A\u8170\u5E26"
+    21300216: "Item_Equip_2002_\u7425\u73C0\u8170\u5E26"
+    21300218: "Item_Equip_2003_\u9ED1\u9762\u72FC\u7259"
+    21300220: "Item_Equip_2004_\u9EC4\u91D1\u8170\u5E26"
+    21300222: "Item_Equip_2005_\u91D1\u8749\u542B\u73E0"
+    21300224: "Item_Equip_2006_\u78D0\u9F99\u51E4\u7FD4"
+    21300226: "Item_Equip_2007_\u51CC\u9704\u4E91\u8292"
+    21300228: "Item_Equip_2101_\u9F99\u6155\u7FE1\u7FE0"
+    21300230: "Item_Equip_2102_\u73B2\u73D1\u52FE\u7389"
+    21300232: "Item_Equip_2103_\u739B\u7459\u7EFF\u5760"
+    21300234: "Item_Equip_2104_\u7329\u7EA2\u4E4B\u6CEA"
+    21300236: "Item_Equip_2105_\u4E09\u6E05\u7389\u4F69"
+    21300238: "Item_Equip_2106_\u5929\u661F\u5947\u5149"
+    21300240: "Item_Equip_2107_\u4E5D\u5929\u971C\u534E"
+    21300242: "Item_Equip_2108_\u5C9A\u91D1\u706B\u70BC"
+    21300244: "Item_Equip_2201_\u5343\u91CC\u8FFD\u4E91"
+    21300246: "Item_Equip_2202_\u8FFD\u661F\u8E0F\u6708"
+    21300248: "Item_Equip_2203_\u8FFD\u4E91\u9010\u7535"
+    21300250: "Item_Equip_2204_\u5E73\u6B65\u9752\u4E91"
+    21300252: "Item_Equip_2205_\u8E0F\u96EA\u65E0\u75D5"
+    21300254: "Item_Equip_2206_\u4E03\u661F\u9010\u6708"
+    21300256: "Item_Equip_2207_\u91D1\u4E1D\u9010\u65E5"
+    21300258: "Item_Equip_2208_\u8F9F\u5C18\u5206\u5149"
+    21300260: "Item_Equip_2209_\u5973\u7EE3\u82B1\u978B"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_Equip_1001_\u5341\u65B9\u7075\u52A8"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1002_\u767E\u4EE3\u6606\u543E"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1003_\u56DB\u6CD5\u9752\u4E91"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1004_\u5929\u9798\u6668\u66E6"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1005_\u4E09\u6052\u66CC\u4E16"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1006_\u6781\u5149\u5C01\u795E"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1007_\u971C\u51B7\u4E5D\u5DDE"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1008_\u7D2B\u7535\u9752\u971C"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1009_\u864E\u5C3E\u6625\u51B0"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1010_\u5982\u662F\u6211\u65A9"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1011_\u83E9\u63D0\u957F\u51E0"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1101_\u67F3\u53F6\u5F2F\u5200"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 743
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1102_\u591C\u9B54\u5F2F\u5200"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1103_\u9F99\u9CDE\u5B9D\u5200"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1104_\u65A9\u5996\u6CE3\u8840"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1105_\u9B3C\u9633\u516D\u65A9"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1106_\u767E\u9B3C\u64D2\u9B42"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1107_\u9F99\u9AA8\u5723\u5203"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1108_\u72EE\u5934\u5B9D\u5200"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1109_\u5B64\u5200\u795E\u5F71"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1110_\u4E1A\u706B\u4E09\u707E"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1111_\u672B\u65E5\u795E\u8BDD"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1201_\u66F2\u67F3\u6743\u6756"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1202_\u7384\u94C1\u6743\u6756"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 669
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1203_\u5F15\u9B42\u6CD5\u6756"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1204_\u5E84\u5468\u68A6\u8776"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1205_\u51E4\u7FFC\u6D41\u73E0"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1206_\u78A7\u6D77\u6F6E\u751F"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1207_\u6781\u9B54\u6CD5\u6756"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1208_\u9057\u5FD8\u4E4B\u7231"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1209_\u5929\u7167\u6CD5\u6756"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1210_\u7075\u9B42\u6536\u5272"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1211_\u5723\u5149\u5C06\u7184"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1301_\u5730\u5578\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1302_\u5929\u54ED\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1303_\u5FC3\u7A8D\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 595
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1304_\u4E09\u805A\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1305_\u6708\u534E\u51C0\u4E16"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1306_\u534A\u6728\u53E4\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1307_\u5973\u5A32\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1308_\u9A71\u90AA\u5316\u715E"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1309_\u4E0A\u53E4\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1310_\u4E0A\u6E05\u7075\u7B26"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1311_\u9E3F\u8499\u7B26\u706F"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1312_\u6CE5\u7281\u5E03\u7252"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1401_\u9576\u82B1\u7FE0\u88D9"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1402_\u9ED1\u971E\u5F69\u4E91"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1403_\u7D2B\u9999\u91D1\u4E4C"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 521
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1404_\u4E03\u5B9D\u5929\u8863"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1405_\u6D41\u4E91\u7D20\u88D9"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1406_\u9713\u88F3\u7FBD\u8863"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1407_\u5929\u9999\u62AB\u80A9"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1408_\u9F99\u9CDE\u7FBD\u8863"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1409_\u9ED1\u4E1D\u8749\u7FFC"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1410_\u4E94\u5F69\u51E4\u7FC5"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1411_\u7D2B\u51E4\u8F7B\u88D8"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1412_\u73CA\u745A\u7389\u8863"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1413_\u795E\u903E\u5B9D\u7532"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1414_\u9F99\u9AA8\u5B9D\u7532"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1415_\u8749\u7FFC\u91D1\u4E1D"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 447
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1416_\u7D2B\u91D1\u78D0\u9F99"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1417_\u8BF8\u5929\u6CD5\u888D"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1418_\u91D1\u4E1D\u9C7C\u9CDE"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1419_\u701A\u5B87\u6CD5\u888D"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1420_\u6DF7\u5143\u4E00\u6C14"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1421_\u5200\u9F99\u6218\u888D"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1422_\u7A46\u5929\u4E03\u62A4"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1501_\u7D2B\u7EE1\u70DF\u7F57"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1502_\u7EFF\u96C1\u9526\u8863"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1503_\u5BF9\u895F\u7FBD\u7EB1"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1504_\u767E\u8776\u5EA6\u82B1"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1505_\u5982\u610F\u4E91\u7EB9"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 373
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1506_\u76D8\u91D1\u5F69\u7EE3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1507_\u7EA2\u7FBD\u7EB1\u8863"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1508_\u4E4C\u91D1\u4E91\u7EE3"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1601_\u666E\u901A\u5934\u51A0"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1602_\u51CC\u6CE2\u971E\u51A0"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1603_\u5929\u7075\u5B9D\u51A0"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1604_\u4E5D\u9704\u70C8\u7130"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1605_\u666E\u901A\u5934\u5DFE"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1606_\u9752\u7389\u661F\u51A0"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1607_\u53CC\u7FFC\u51CC\u9704"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1608_\u91D1\u7FFC\u9F99\u51A0"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1701_\u666E\u901A\u9879\u94FE"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 299
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1702_\u4ED3\u6728\u9879\u94FE"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1703_\u82CD\u9B42\u540A\u5760"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1704_\u8367\u5149\u5760\u5B50"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1705_\u78A7\u6C34\u9752\u9F99"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1706_\u4E03\u5F69\u73B2\u73D1"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1707_\u843D\u971E\u9668\u661F"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1708_\u938F\u91D1\u70B9\u7FE0"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1801_\u9EC4\u94DC\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1802_\u5BC6\u94F6\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1803_\u9ED1\u91D1\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1804_\u7CBE\u94A2\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1805_\u7384\u94C1\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 225
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1806_\u9ED1\u9F99\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1807_\u964D\u9F99\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1808_\u91D1\u9CDE\u62A4\u8155"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1901_\u8349\u6728\u6212\u6307"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1902_\u7FE1\u7FE0\u6212\u6307"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1903_\u78D0\u9F99\u6212\u6307"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1904_\u9EC4\u91D1\u6212\u6307"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1905_\u987B\u5F25\u6212\u6307"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1906_\u5929\u4F7F\u4E4B\u6212"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1907_\u81F3\u5C0A\u9B54\u6212"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_1908_\u4E7E\u5764\u6212\u6307"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2001_\u666E\u901A\u8170\u5E26"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2002_\u7425\u73C0\u8170\u5E26"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2003_\u9ED1\u9762\u72FC\u7259"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2004_\u9EC4\u91D1\u8170\u5E26"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2005_\u91D1\u8749\u542B\u73E0"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2006_\u78D0\u9F99\u51E4\u7FD4"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2007_\u51CC\u9704\u4E91\u8292"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2101_\u9F99\u6155\u7FE1\u7FE0"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2102_\u73B2\u73D1\u52FE\u7389"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2103_\u739B\u7459\u7EFF\u5760"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2104_\u7329\u7EA2\u4E4B\u6CEA"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2105_\u4E09\u6E05\u7389\u4F69"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2106_\u5929\u661F\u5947\u5149"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2107_\u4E5D\u5929\u971C\u534E"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2108_\u5C9A\u91D1\u706B\u70BC"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2201_\u5343\u91CC\u8FFD\u4E91"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2202_\u8FFD\u661F\u8E0F\u6708"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2203_\u8FFD\u4E91\u9010\u7535"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2204_\u5E73\u6B65\u9752\u4E91"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2205_\u8E0F\u96EA\u65E0\u75D5"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2206_\u4E03\u661F\u9010\u6708"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2207_\u91D1\u4E1D\u9010\u65E5"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2208_\u8F9F\u5C18\u5206\u5149"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Equip_2209_\u5973\u7EE3\u82B1\u978B"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 4d12f0c07ec7632438bdfafd6f36d7b9
+timeCreated: 1490789937
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Item_Knapsack_Amulet
+    21300002: Item_Knapsack_BackpackLine
+    21300004: Item_Knapsack_BagLock
+    21300006: Item_Knapsack_Belt
+    21300008: Item_Knapsack_Boot
+    21300010: Item_Knapsack_Choose
+    21300012: Item_Knapsack_Clothes
+    21300014: Item_Knapsack_Cuff
+    21300016: Item_Knapsack_directionDown
+    21300018: Item_Knapsack_directionNormal
+    21300020: Item_Knapsack_Helmet
+    21300022: Item_Knapsack_Item
+    21300024: Item_Knapsack_Lock
+    21300026: Item_Knapsack_Necklace
+    21300028: Item_Knapsack_Pants
+    21300030: Item_Knapsack_Ring
+    21300032: Item_Knapsack_RoleBg
+    21300034: Item_Knapsack_TabButtonDisable
+    21300036: Item_Knapsack_TabButtonDown
+    21300038: Item_Knapsack_TabButtonNormal
+    21300040: Item_Knapsack_Weapon
+    21300042: "Item_Knapsack_\u6211\u7684\u6218\u529B"
+    21300044: "Item_Knapsack_\u6211\u7684\u6218\u529BBg"
+    21300046: "Item_Knapsack_\u6E05\u7406\u5783\u573E"
+    21300048: "Item_Knapsack_\u6E05\u7406\u5783\u573E\u53CD\u9988"
+    21300050: "Item_Knapsack_\u81EA\u52A8\u6574\u7406"
+    21300052: "Item_Knapsack_\u81EA\u52A8\u6574\u7406\u53CD\u9988"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Item_Knapsack_Amulet
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 236
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_BackpackLine
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 290
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_BagLock
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 102
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Belt
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 10
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Boot
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 236
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Choose
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 232
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Clothes
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 144
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Cuff
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 52
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_directionDown
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 464
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_directionNormal
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 246
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Helmet
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 144
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Item
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 52
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Lock
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 102
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Necklace
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 314
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Pants
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 186
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Ring
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 94
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_RoleBg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 227
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_TabButtonDisable
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 47
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_TabButtonDown
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 54
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_TabButtonNormal
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 47
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Item_Knapsack_Weapon
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Knapsack_\u6211\u7684\u6218\u529B"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 341
+        width: 139
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Knapsack_\u6211\u7684\u6218\u529BBg"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 406
+        width: 422
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Knapsack_\u6E05\u7406\u5783\u573E"
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 16
+        width: 93
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Knapsack_\u6E05\u7406\u5783\u573E\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 194
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Knapsack_\u81EA\u52A8\u6574\u7406"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 278
+        width: 93
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Knapsack_\u81EA\u52A8\u6574\u7406\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 14
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

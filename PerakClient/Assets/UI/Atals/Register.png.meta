@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: d1eecdd5a59db844ba68ce73e6cad3f3
+timeCreated: 1491173712
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Register_\u624B\u673A\u53F7\u7801"
+    21300002: "Register_\u83B7\u53D6\u9A8C\u8BC1\u7801"
+    21300004: "Register_\u8D26\u53F7\u6CE8\u518C"
+    21300006: "Register_\u8F93\u5165\u5BC6\u7801"
+    21300008: "Register_\u8F93\u5165\u6846"
+    21300010: "Register_\u8F93\u5165\u8D26\u53F7"
+    21300012: "Register_\u91CD\u590D\u5BC6\u7801"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Register_\u624B\u673A\u53F7\u7801"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 110
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u83B7\u53D6\u9A8C\u8BC1\u7801"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 138
+        height: 28
+      alignment: 9
+      pivot: {x: 0.51449275, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u8D26\u53F7\u6CE8\u518C"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 130
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u8F93\u5165\u5BC6\u7801"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 117
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u8F93\u5165\u6846"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 248
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u8F93\u5165\u8D26\u53F7"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 112
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Register_\u91CD\u590D\u5BC6\u7801"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 113
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

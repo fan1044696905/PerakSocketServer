@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 25f03525e96823941a3363c9cf630962
+timeCreated: 1490790291
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_Drug_101_\u6B62\u8840\u8349"
+    21300002: "Item_Drug_102_\u5927\u8865\u4E38"
+    21300004: "Item_Drug_103_\u5C0F\u8FD8\u4E39"
+    21300006: "Item_Drug_104_\u5927\u8FD8\u4E39"
+    21300008: "Item_Drug_105_\u8FD8\u9B42\u4E39"
+    21300010: "Item_Drug_201_\u5927\u70E4\u9E21"
+    21300012: "Item_Drug_202_\u7389\u8749\u4E38"
+    21300014: "Item_Drug_203_\u5929\u4E00\u4E38"
+    21300016: "Item_Drug_204_\u5B9A\u9B42\u4E39"
+    21300018: "Item_Drug_205_\u767E\u8349\u4E39"
+    21300020: "Item_Drug_301_\u4E00\u7EA7\u7269\u653B"
+    21300022: "Item_Drug_302_\u4E8C\u7EA7\u7269\u653B"
+    21300024: "Item_Drug_303_\u4E09\u7EA7\u7269\u653B"
+    21300026: "Item_Drug_304_\u56DB\u7EA7\u7269\u653B"
+    21300028: "Item_Drug_401_\u4E00\u7EA7\u7269\u9632"
+    21300030: "Item_Drug_402_\u4E8C\u7EA7\u7269\u9632"
+    21300032: "Item_Drug_403_\u4E09\u7EA7\u7269\u9632"
+    21300034: "Item_Drug_404_\u56DB\u7EA7\u7269\u9632"
+    21300036: "Item_Drug_501_\u4E00\u7EA7\u9B54\u653B"
+    21300038: "Item_Drug_502_\u4E8C\u7EA7\u9B54\u653B"
+    21300040: "Item_Drug_503_\u4E09\u7EA7\u9B54\u653B"
+    21300042: "Item_Drug_504_\u56DB\u7EA7\u9B54\u653B"
+    21300044: "Item_Drug_601_\u4E00\u7EA7\u9B54\u9632"
+    21300046: "Item_Drug_602_\u4E8C\u7EA7\u9B54\u9632"
+    21300048: "Item_Drug_603_\u4E09\u7EA7\u9B54\u9632"
+    21300050: "Item_Drug_604_\u56DB\u7EA7\u9B54\u9632"
+    21300052: "Item_Drug_701_\u4E00\u7EA7\u547D\u4E2D"
+    21300054: "Item_Drug_702_\u4E8C\u7EA7\u547D\u4E2D"
+    21300056: "Item_Drug_703_\u4E09\u7EA7\u547D\u4E2D"
+    21300058: "Item_Drug_704_\u56DB\u7EA7\u547D\u4E2D"
+    21300060: "Item_Drug_801_\u4E00\u7EA7\u66B4\u51FB"
+    21300062: "Item_Drug_802_\u4E8C\u7EA7\u66B4\u51FB"
+    21300064: "Item_Drug_803_\u4E09\u7EA7\u66B4\u51FB"
+    21300066: "Item_Drug_804_\u56DB\u7EA7\u66B4\u51FB"
+    21300068: "Item_Drug_901_\u4E00\u7EA7\u95EA\u907F"
+    21300070: "Item_Drug_902_\u4E8C\u7EA7\u95EA\u907F"
+    21300072: "Item_Drug_903_\u4E09\u7EA7\u95EA\u907F"
+    21300074: "Item_Drug_904_\u56DB\u7EA7\u95EA\u907F"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_Drug_101_\u6B62\u8840\u8349"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_102_\u5927\u8865\u4E38"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_103_\u5C0F\u8FD8\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_104_\u5927\u8FD8\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_105_\u8FD8\u9B42\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_201_\u5927\u70E4\u9E21"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_202_\u7389\u8749\u4E38"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_203_\u5929\u4E00\u4E38"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_204_\u5B9A\u9B42\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_205_\u767E\u8349\u4E39"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_301_\u4E00\u7EA7\u7269\u653B"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_302_\u4E8C\u7EA7\u7269\u653B"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_303_\u4E09\u7EA7\u7269\u653B"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_304_\u56DB\u7EA7\u7269\u653B"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_401_\u4E00\u7EA7\u7269\u9632"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_402_\u4E8C\u7EA7\u7269\u9632"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_403_\u4E09\u7EA7\u7269\u9632"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_404_\u56DB\u7EA7\u7269\u9632"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_501_\u4E00\u7EA7\u9B54\u653B"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_502_\u4E8C\u7EA7\u9B54\u653B"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_503_\u4E09\u7EA7\u9B54\u653B"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_504_\u56DB\u7EA7\u9B54\u653B"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_601_\u4E00\u7EA7\u9B54\u9632"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_602_\u4E8C\u7EA7\u9B54\u9632"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_603_\u4E09\u7EA7\u9B54\u9632"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_604_\u56DB\u7EA7\u9B54\u9632"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_701_\u4E00\u7EA7\u547D\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_702_\u4E8C\u7EA7\u547D\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_703_\u4E09\u7EA7\u547D\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_704_\u56DB\u7EA7\u547D\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_801_\u4E00\u7EA7\u66B4\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_802_\u4E8C\u7EA7\u66B4\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_803_\u4E09\u7EA7\u66B4\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_804_\u56DB\u7EA7\u66B4\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_901_\u4E00\u7EA7\u95EA\u907F"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_902_\u4E8C\u7EA7\u95EA\u907F"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_903_\u4E09\u7EA7\u95EA\u907F"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Drug_904_\u56DB\u7EA7\u95EA\u907F"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 738f7647786ba254baf3c71e97c9a72e
+timeCreated: 1491162375
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bangzhan
+    21300002: "FunctionButton_\u4E3B\u89D2"
+    21300004: "FunctionButton_\u4E7E\u5764\u888B"
+    21300006: "FunctionButton_\u4EFB\u52A1"
+    21300008: "FunctionButton_\u4F19\u4F34"
+    21300010: "FunctionButton_\u4FA0\u5BA2"
+    21300012: "FunctionButton_\u5236\u9020"
+    21300014: "FunctionButton_\u534E\u5C71\u8BBA\u5251"
+    21300016: "FunctionButton_\u548C\u5E73"
+    21300018: "FunctionButton_\u5546\u57CE"
+    21300020: "FunctionButton_\u5A01\u6151\u699C"
+    21300022: "FunctionButton_\u5BC4\u552E"
+    21300024: "FunctionButton_\u5E2E\u4F1A"
+    21300026: "FunctionButton_\u5F3A\u5316"
+    21300028: "FunctionButton_\u6280\u80FD"
+    21300030: "FunctionButton_\u6302\u673A"
+    21300032: "FunctionButton_\u6302\u673A\u4E2D"
+    21300034: "FunctionButton_\u6447\u94B1\u6811"
+    21300036: "FunctionButton_\u6740\u622E"
+    21300038: "FunctionButton_\u6D3B\u52A8"
+    21300040: "FunctionButton_\u793E\u4EA4"
+    21300042: "FunctionButton_\u79BB\u5F00\u526F\u672C"
+    21300044: "FunctionButton_\u79D8\u7C4D"
+    21300046: "FunctionButton_\u7F8E\u4EBA"
+    21300048: "FunctionButton_\u80CC\u5305"
+    21300050: "FunctionButton_\u8282\u65E5"
+    21300052: "FunctionButton_\u836F\u5E97"
+    21300054: "FunctionButton_\u8BBE\u7F6E1"
+    21300056: "FunctionButton_\u8BBE\u7F6E2"
+    21300058: "FunctionButton_\u8FD4\u56DE"
+    21300060: "FunctionButton_\u9152\u697C"
+    21300062: "FunctionButton_\u9886\u5956"
+    21300064: "FunctionButton_\u98CE\u4E91\u699C"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bangzhan
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 21
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u4E3B\u89D2"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 312
+        width: 81
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55376345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u4E7E\u5764\u888B"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 407
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u4EFB\u52A1"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 407
+        width: 80
+        height: 92
+      alignment: 9
+      pivot: {x: 0.50625, y: 0.5597826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u4F19\u4F34"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.51265824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u4FA0\u5BA2"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 93
+        width: 78
+        height: 99
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.52020204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u5236\u9020"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 217
+        width: 79
+        height: 93
+      alignment: 9
+      pivot: {x: 0.51265824, y: 0.55376345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u534E\u5C71\u8BBA\u5251"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4
+        width: 69
+        height: 72
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u548C\u5E73"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 54
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u5546\u57CE"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 151
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u5A01\u6151\u699C"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 338
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u5BC4\u552E"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 312
+        width: 81
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55376345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u5E2E\u4F1A"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 194
+        width: 84
+        height: 92
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5597826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u5F3A\u5316"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 288
+        width: 86
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.57222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u6280\u80FD"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 89
+        width: 86
+        height: 92
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.5597826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u6302\u673A"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 83
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u6302\u673A\u4E2D"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u6447\u94B1\u6811"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 431
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u6740\u622E"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 15
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u6D3B\u52A8"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u793E\u4EA4"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 194
+        width: 83
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5597826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u79BB\u5F00\u526F\u672C"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 362
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u79D8\u7C4D"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 93
+        width: 78
+        height: 99
+      alignment: 9
+      pivot: {x: 0.50641024, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u7F8E\u4EBA"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 87
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53092784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u80CC\u5305"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 122
+        width: 78
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.55376345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u8282\u65E5"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 69
+        height: 72
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u836F\u5E97"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 219
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u8BBE\u7F6E1"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1
+        width: 81
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.57222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u8BBE\u7F6E2"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 228
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u8FD4\u56DE"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u9152\u697C"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 407
+        width: 81
+        height: 92
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.5597826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u9886\u5956"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 432
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "FunctionButton_\u98CE\u4E91\u699C"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

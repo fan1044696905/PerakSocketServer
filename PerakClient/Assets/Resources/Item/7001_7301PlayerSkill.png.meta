@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: db9f3745f58c4c34eb74a69315213910
+timeCreated: 1490792044
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_PlayerSkill_7001_\u666E\u901A\u653B\u51FB"
+    21300002: "Item_PlayerSkill_7002_\u6280\u80FD\u80CC\u666F"
+    21300004: "Item_PlayerSkill_7003_\u5927\u62DB\u80CC\u666F"
+    21300006: "Item_PlayerSkill_7004_\u8840\u6D6A\u8D2F\u65E5"
+    21300008: "Item_PlayerSkill_7005_\u4E07\u6CD5\u4E4B\u6E90"
+    21300010: "Item_PlayerSkill_7006_\u4E09\u624D\u5251\u9635"
+    21300012: "Item_PlayerSkill_7007_\u91D1\u521A\u4E0D\u574F"
+    21300014: "Item_PlayerSkill_7008_\u51B0\u5DDD\u4E4B\u6012"
+    21300016: "Item_PlayerSkill_7009_\u53E4\u8587\u751F\u83B2"
+    21300018: "Item_PlayerSkill_7010_\u6012\u543C\u8352\u539F"
+    21300020: "Item_PlayerSkill_7011_\u706B\u773C\u91D1\u775B"
+    21300022: "Item_PlayerSkill_7012_\u51CC\u6CE2\u5FAE\u6B65"
+    21300024: "Item_PlayerSkill_7100_\u5929\u5251\u5723\u51B3"
+    21300026: "Item_PlayerSkill_7101_\u5929\u8863\u65E0\u7F1D"
+    21300028: "Item_PlayerSkill_7102_\u6C34\u98CE\u884C\u6B65"
+    21300030: "Item_PlayerSkill_7103_\u5929\u6CB3\u6D41\u661F"
+    21300032: "Item_PlayerSkill_7104_\u5929\u6781\u5723\u5149"
+    21300034: "Item_PlayerSkill_7105_\u70BD\u5203\u98CE\u96F7"
+    21300036: "Item_PlayerSkill_7106_\u98CE\u59FF\u5343\u5F71."
+    21300038: "Item_PlayerSkill_7107_\u6597\u8F6C\u661F\u79FB"
+    21300040: "Item_PlayerSkill_7108_\u661F\u7F57\u5251\u9635"
+    21300042: "Item_PlayerSkill_7200_\u5341\u91CC\u9F99\u6D9B"
+    21300044: "Item_PlayerSkill_7201_\u6D6E\u4E91\u63A0\u7A7A"
+    21300046: "Item_PlayerSkill_7202_\u5929\u7F61\u7389\u65E8"
+    21300048: "Item_PlayerSkill_7203_\u5251\u5F15\u98CE\u96F7"
+    21300050: "Item_PlayerSkill_7204_\u4E94\u96F7\u5929\u5492"
+    21300052: "Item_PlayerSkill_7205_\u7A7F\u4E91\u88C2\u77F3"
+    21300054: "Item_PlayerSkill_7206_\u53CC\u5251\u5408\u6D41"
+    21300056: "Item_PlayerSkill_7207_\u64CE\u96F7\u6B9B\u706D"
+    21300058: "Item_PlayerSkill_7208_\u7384\u5929\u5251\u5370"
+    21300060: "Item_PlayerSkill_7300_\u5F80\u751F\u4F5B\u5370"
+    21300062: "Item_PlayerSkill_7301_\u8703\u5F71\u5343\u5E7B"
+    21300064: "Item_PlayerSkill_7302_\u91D1\u8EAB\u4E0D\u706D"
+    21300066: "Item_PlayerSkill_7303_\u6CD5\u6756\u8BDB\u90AA"
+    21300068: "Item_PlayerSkill_7304_\u987B\u5F25\u4E00\u51FB"
+    21300070: "Item_PlayerSkill_7305_\u60B2\u5929\u60AF\u4EBA"
+    21300072: "Item_PlayerSkill_7306_\u5F02\u4F5B\u771F\u7ECF"
+    21300074: "Item_PlayerSkill_7307_\u4F5B\u8A00\u67B7\u9501"
+    21300076: "Item_PlayerSkill_7308_\u51C0\u83B2\u4E4B\u534E"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7001_\u666E\u901A\u653B\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 31
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7002_\u6280\u80FD\u80CC\u666F"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 17
+        width: 133
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7003_\u5927\u62DB\u80CC\u666F"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7004_\u8840\u6D6A\u8D2F\u65E5"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 343
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7005_\u4E07\u6CD5\u4E4B\u6E90"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7006_\u4E09\u624D\u5251\u9635"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 343
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7007_\u91D1\u521A\u4E0D\u574F"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7008_\u51B0\u5DDD\u4E4B\u6012"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 445
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7009_\u53E4\u8587\u751F\u83B2"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 241
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7010_\u6012\u543C\u8352\u539F"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 343
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7011_\u706B\u773C\u91D1\u775B"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 139
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7012_\u51CC\u6CE2\u5FAE\u6B65"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 139
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7100_\u5929\u5251\u5723\u51B3"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 139
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7101_\u5929\u8863\u65E0\u7F1D"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 241
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7102_\u6C34\u98CE\u884C\u6B65"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 241
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7103_\u5929\u6CB3\u6D41\u661F"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7104_\u5929\u6781\u5723\u5149"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7105_\u70BD\u5203\u98CE\u96F7"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 241
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7106_\u98CE\u59FF\u5343\u5F71."
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 751
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7107_\u6597\u8F6C\u661F\u79FB"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 445
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7108_\u661F\u7F57\u5251\u9635"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 649
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7200_\u5341\u91CC\u9F99\u6D9B"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 649
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7201_\u6D6E\u4E91\u63A0\u7A7A"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 649
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7202_\u5929\u7F61\u7389\u65E8"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 751
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7203_\u5251\u5F15\u98CE\u96F7"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 751
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7204_\u4E94\u96F7\u5929\u5492"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 751
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7205_\u7A7F\u4E91\u88C2\u77F3"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 751
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7206_\u53CC\u5251\u5408\u6D41"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 4
+        width: 134
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49624062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7207_\u64CE\u96F7\u6B9B\u706D"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 649
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7208_\u7384\u5929\u5251\u5370"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 649
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7300_\u5F80\u751F\u4F5B\u5370"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 445
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7301_\u8703\u5F71\u5343\u5E7B"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 445
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7302_\u91D1\u8EAB\u4E0D\u706D"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 445
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7303_\u6CD5\u6756\u8BDB\u90AA"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 547
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7304_\u987B\u5F25\u4E00\u51FB"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 547
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7305_\u60B2\u5929\u60AF\u4EBA"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 547
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7306_\u5F02\u4F5B\u771F\u7ECF"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 547
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7307_\u4F5B\u8A00\u67B7\u9501"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 547
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_PlayerSkill_7308_\u51C0\u83B2\u4E4B\u534E"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 343
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

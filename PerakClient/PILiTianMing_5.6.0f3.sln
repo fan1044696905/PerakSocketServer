@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PILiTianMing_5.6.0f3", "PILiTianMing_5.6.0f3.csproj", "{5FB7DE93-0F6E-6799-29A3-38DA3162CED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PILiTianMing_5.6.0f3.Editor", "PILiTianMing_5.6.0f3.Editor.csproj", "{4D0DBA46-5E05-9EA1-EFD7-101424FC3B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB7DE93-0F6E-6799-29A3-38DA3162CED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB7DE93-0F6E-6799-29A3-38DA3162CED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB7DE93-0F6E-6799-29A3-38DA3162CED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB7DE93-0F6E-6799-29A3-38DA3162CED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0DBA46-5E05-9EA1-EFD7-101424FC3B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0DBA46-5E05-9EA1-EFD7-101424FC3B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0DBA46-5E05-9EA1-EFD7-101424FC3B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0DBA46-5E05-9EA1-EFD7-101424FC3B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

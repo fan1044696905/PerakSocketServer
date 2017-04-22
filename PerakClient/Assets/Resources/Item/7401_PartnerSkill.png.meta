@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: c8a13159611aa344ea77a96a901d0d51
+timeCreated: 1490792130
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: huobanjineng_0_dongwu_zhuaji
+    21300002: huobanjineng_01_dongwu_cuidu
+    21300004: huobanjineng_02_dongwu_xiaotie
+    21300006: huobanjineng_03_dongwu_hengsao
+    21300008: huobanjineng_04_dongwu_yangyan
+    21300010: huobanjineng_05_dongwu_paoxiao
+    21300012: huobanjineng_06_dongwu_kuangye
+    21300014: huobanjineng_07_dongwu_jinjizhishou
+    21300016: huobanjineng_08_dongwu_ronglianzhishou
+    21300018: huobanjineng_09_dongwu_qunshounuhou
+    21300020: huobanjineng_renxing_00_jieli
+    21300022: huobanjineng_renxing_01_yudi
+    21300024: huobanjineng_renxing_02_liaoshang
+    21300026: huobanjineng_renxing_03_shuangpu
+    21300028: huobanjineng_renxing_04_kanpo
+    21300030: huobanjineng_renxing_05_huzhu
+    21300032: huobanjineng_renxing_06_banzu
+    21300034: huobanjineng_renxing_07_bibohuti
+    21300036: huobanjineng_renxing_08_yulanfenfang
+    21300038: huobanjineng_renxing_09_borexinjing
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huobanjineng_0_dongwu_zhuaji
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_01_dongwu_cuidu
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_02_dongwu_xiaotie
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_03_dongwu_hengsao
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_04_dongwu_yangyan
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_05_dongwu_paoxiao
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_06_dongwu_kuangye
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_07_dongwu_jinjizhishou
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_08_dongwu_ronglianzhishou
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_09_dongwu_qunshounuhou
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 149
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_00_jieli
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_01_yudi
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_02_liaoshang
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_03_shuangpu
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_04_kanpo
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_05_huzhu
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_06_banzu
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_07_bibohuti
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_08_yulanfenfang
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: huobanjineng_renxing_09_borexinjing
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

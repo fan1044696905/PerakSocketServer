@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 97d90807433309c4c87c2bb8b3af5e05
+timeCreated: 1490791876
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Item_Mount_6501_\u7EA2\u9A6C"
+    21300002: "Item_Mount_6502_\u9ED1\u9A6C"
+    21300004: "Item_Mount_6503_\u767D\u9A6C"
+    21300006: "Item_Mount_6504_\u96EA\u72FC"
+    21300008: "Item_Mount_6505_\u9ED1\u8C79"
+    21300010: "Item_Mount_6506_\u72D0\u72F8"
+    21300012: "Item_Mount_6507_\u731B\u864E"
+    21300014: "Item_Mount_6508_\u72C2\u72EE"
+    21300016: "Item_Mount_6509_\u767D\u96D5"
+    21300018: "Item_Mount_6510_\u718A\u732B"
+    21300020: "Item_Mount_6511_\u9E92\u9E9F"
+    21300022: "Item_Mount_6512_\u7A77\u5947"
+    21300024: "Item_Mount_6513_\u51E4\u51F0"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Item_Mount_6501_\u7EA2\u9A6C"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6502_\u9ED1\u9A6C"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6503_\u767D\u9A6C"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6504_\u96EA\u72FC"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6505_\u9ED1\u8C79"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6506_\u72D0\u72F8"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6507_\u731B\u864E"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6508_\u72C2\u72EE"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6509_\u767D\u96D5"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6510_\u718A\u732B"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 77
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6511_\u9E92\u9E9F"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6512_\u7A77\u5947"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Item_Mount_6513_\u51E4\u51F0"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

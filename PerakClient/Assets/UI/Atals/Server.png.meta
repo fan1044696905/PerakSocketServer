@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: e69bf40839a8ce94fa166efce424a33c
+timeCreated: 1490794512
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Server_Button_\u786E\u5B9A\u53CD\u9988"
+    21300002: "Server_Button_\u786E\u5B9A\u6B63\u5E38"
+    21300004: "Server_Button_\u786E\u5B9A\u7F6E\u7070"
+    21300006: "Server_ButtonChoose_1\u53CD\u9988"
+    21300008: "Server_ButtonChoose_1\u6B63\u5E38"
+    21300010: "Server_ButtonChoose_1\u7F6E\u7070"
+    21300012: "Server_ButtonChoose_2\u53CD\u9988"
+    21300014: "Server_ButtonChoose_2\u6B63\u5E38"
+    21300016: "Server_ButtonChoose_2\u7F6E\u7070"
+    21300018: "Server_ButtonChoose_3\u53CD\u9988"
+    21300020: "Server_ButtonChoose_3\u6B63\u5E38"
+    21300022: "Server_ButtonChoose_3\u7F6E\u7070"
+    21300024: "Server_ButtonChoose_4\u53CD\u9988"
+    21300026: "Server_ButtonChoose_4\u6B63\u5E38"
+    21300028: "Server_ButtonChoose_4\u7F6E\u7070"
+    21300030: "Server_ButtonChoose_5\u53CD\u9988"
+    21300032: "Server_ButtonChoose_5\u6B63\u5E38"
+    21300034: "Server_ButtonChoose_5\u7F6E\u7070"
+    21300036: "Server_\u63A8\u8350"
+    21300038: "Server_\u65B0\u533A"
+    21300040: "Server_\u670D\u52A1\u5668\u9009\u62E9"
+    21300042: "Server_\u706B\u7206"
+    21300044: "Server_\u7EF4\u62A4"
+    21300046: "Server_\u901A\u7545"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Server_Button_\u786E\u5B9A\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 52
+        width: 78
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_Button_\u786E\u5B9A\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 52
+        width: 78
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_Button_\u786E\u5B9A\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 52
+        width: 78
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_1\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_1\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_1\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_2\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_2\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_2\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_3\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_3\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_3\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 435
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_4\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 377
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_4\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 319
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_4\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 261
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_5\u53CD\u9988"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 203
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_5\u6B63\u5E38"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_ButtonChoose_5\u7F6E\u7070"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 87
+        width: 250
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_\u63A8\u8350"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_\u65B0\u533A"
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 23
+        width: 47
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_\u670D\u52A1\u5668\u9009\u62E9"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 145
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_\u706B\u7206"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 23
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_\u7EF4\u62A4"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 23
+        width: 47
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "Server_\u901A\u7545"
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
